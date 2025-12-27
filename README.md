@@ -29,7 +29,7 @@ This project is designed as a learning-oriented text editor similar to Notepad, 
 
 ## 📸 Screenshots
 
-![Main Screen](/TextEditor/TextEditor.png) 
+![Main Screen](/Yazzsshn/TextEditor/TextEditor.png) 
 
 ---
 
