@@ -29,7 +29,7 @@ This project is designed as a learning-oriented text editor similar to Notepad, 
 
 ## 📸 Screenshots
 
-> You can add screenshots of the application here later.
+/TextEditor/TextEditor.png
 
 ---
 
